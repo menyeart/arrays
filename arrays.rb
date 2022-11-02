@@ -21,13 +21,21 @@ booleans.unshift(false)
 #Index Postions
 
 # Four elements in the strings array
-strings.length == 4
+strings.length = 4
 
 # The first element's position in the string array 0
-strings[0] == "apple"
+strings[0] = "apple"
 
 # The fourth element's position in the string array is 3
-strings[3] == "pear"
+strings[3] = "pear"
+
+# Array first and last methods
+
+#Array first method will return the first element of an array
+strings.first = "apple"
+
+#Array last method will return the last element of an array
+strings.last = "pear"
 
 
 
