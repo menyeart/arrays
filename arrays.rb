@@ -17,3 +17,18 @@ floats.shift
 
 # Adds the new specified element to the beginning of the booleans array and returns the modified array.
 booleans.unshift(false)
+
+#Index Postions
+
+# Four elements in the strings array
+strings.length == 4
+
+# The first element's position in the string array 0
+strings[0] == "apple"
+
+# The fourth element's position in the string array is 3
+strings[3] == "pear"
+
+
+
+
